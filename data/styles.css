@@ -13,15 +13,15 @@
 }
 .box_3 {
 }
+.ellipse {
+}
+.image {
+}
 .primary_button {
   color:#FFFFFF;
 }
 .link_button {
   color:#169BD5;
-}
-._图片 {
-}
-.button {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -73,17 +73,15 @@
 }
 .line {
 }
-.text_field {
+.list_box {
   color:#000000;
   text-align:left;
 }
-.checkbox {
-  text-align:left;
+._流程形状 {
 }
-._图片1 {
-  color:#000000;
+.table_cell {
 }
 .icon {
 }
-.flow_shape {
+._图片 {
 }
